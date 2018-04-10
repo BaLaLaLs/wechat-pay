@@ -1,0 +1,58 @@
+{
+  "_from": "git+https://github.com/BaLaLaLs/wechat-pay.git",
+  "_id": "wechat-pay@0.3.2",
+  "_inBundle": false,
+  "_integrity": "sha1-nYDiGLMXqCpt+0UYA3QoGo6VsM8=",
+  "_location": "/wechat-pay",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "wechat-pay@git+https://github.com/BaLaLaLs/wechat-pay.git",
+    "name": "wechat-pay",
+    "escapedName": "wechat-pay",
+    "rawSpec": "git+https://github.com/BaLaLaLs/wechat-pay.git",
+    "saveSpec": "git+https://github.com/BaLaLaLs/wechat-pay.git",
+    "fetchSpec": "https://github.com/BaLaLaLs/wechat-pay.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/BaLaLaLs/wechat-pay.git#cc25c7a4c66f1c20d848e415cc69b365dad68794",
+  "_shasum": "3da4f8588200eb45dce3f930629cd22cebaa7018",
+  "_spec": "wechat-pay@git+https://github.com/BaLaLaLs/wechat-pay.git",
+  "_where": "F:\\js\\nightclub-api",
+  "author": {
+    "name": "spud"
+  },
+  "bugs": {
+    "url": "https://github.com/supersheep/wechat-pay/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "md5": "^2.0.0",
+    "raw-body": "^2.3.2",
+    "request": "^2.45.0",
+    "sha1": "^1.1.0",
+    "underscore": "^1.7.0",
+    "xml2js": "^0.4.4"
+  },
+  "deprecated": false,
+  "description": "wechat payment api for document v3.3.5",
+  "homepage": "https://github.com/supersheep/wechat-pay",
+  "keywords": [
+    "wechat",
+    "payment"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "wechat-pay",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/supersheep/wechat-pay.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.3.2"
+}
